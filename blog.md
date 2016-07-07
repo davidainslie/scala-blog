@@ -284,7 +284,7 @@ class ExampleSpec(implicit ev: ExecutionEnv) extends Specification {
 }
 ```
 
-Mmm... Interesting Mr Bond.
+Mmm... Interesting!
 
 In the Scala world, we usually use either [Specs2](https://etorreborre.github.io/specs2/) or [Scalatest](http://www.scalatest.org/) libraries to help us do TDD. (Most languages have something similar). Here we are using Specs2, which adopts a very functional style to testing, and also leans towards doing BDD and not just TDD, where BDD stands for Behaviour Driven Development. The advantage BDD has over TDD, is that you write a test with behaviour of a system, as the priority, and as a result, the difference between unit and integration tests merge into each other. The above test is a prime example. It is essentially an integration test, but written as a unit test.
 
