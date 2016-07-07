@@ -1,6 +1,7 @@
 package com.kissthinker.trading
 
 import scala.concurrent.ExecutionContext.Implicits.global
+import com.kissthinker.futures._
 
 /**
   * Example output:
