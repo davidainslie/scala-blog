@@ -37,7 +37,7 @@ Scala was first released in 2004. The name stands for “scalable language” - 
 
 It was built to run on the JVM, just like Java. The JVM is the Java Virtual Machine. Most languages have their code (the English like text that a programmer writes) compiled/interpreted (well, really translated) to the language that the computer understands (the computer that your program will run on). The JVM is an intermediary layer, between computer language and the English like source code, which provides many benefits (for another blog). However, in short it allows your code to be portable (there are many different computers and operating systems) and it can actually optimize/improve your code when it runs.
 
-Because of its association with Java, Scala has a familiar syntax to many developers, but most of its ideas have come from the Haskell programming language, for solid, dependable, future proof code.
+Because of its association with Java, Scala has a familiar syntax to many developers, but most of its ideas have come from the [Haskell](https://www.haskell.org/) programming language, for solid, dependable, future proof code.
 
 So, developers should be able to get on board with Scala because of the Java connection, but write much better, high quality, robust, scalable, maintainable and future proof code because of the Haskell connection. Note that this connection with Haskell is for another blog. However, just for your information, Haskell is a purely functional programming language - we'll discuss "functions" later.
 
