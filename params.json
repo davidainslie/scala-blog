@@ -1,6 +1,6 @@
 {
   "name": "Scala Blog",
   "tagline": "Scala blog series by David Ainslie",
-  "body": "[**Scala**](http://www.scala-lang.org/) just might be your best programming investment.\r\n\r\n# Scala Blog Series\r\n\r\n- [Scala Introduction](https://davidainslie.github.io/scala-blog-introduction/)\r\n- [Scala at UK Home Office](https://davidainslie.github.io/scala-blog-uk-home-office/)",
+  "body": "[**Scala**](http://www.scala-lang.org/) just might be your best programming investment.\r\n\r\n# Scala Blog Series\r\n\r\n- [Scala Introduction](https://davidainslie.github.io/scala-blog-introduction/)\r\n- [Scala Example](https://davidainslie.github.io/scala-blog-example/)\r\n- [Scala at UK Home Office](https://davidainslie.github.io/scala-blog-uk-home-office/)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
